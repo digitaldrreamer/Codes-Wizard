@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Working on GoRemote Africa <br>🤝 Looking to collaborate on any open source project, especially desktop applications.<br>😎 I use SvelteKit, Tailwind CSS and Appwrite.<br>🎲 I also dabble into ElectronJS, Tauri, Svelte Native and Ionic.<br>🔭 Looking to pursue my interests in IoT, Robotics and AI 
+⚡ Working on GoRemote Africa <br>🤝 Looking to collaborate on any open source project, especially desktop applications built with web technologies, so I get to put my knowledge of Tauri to good use.<br>😎 I use SvelteKit, Tailwind CSS and Appwrite.<br>🎲 I also dabble into ElectronJS, Tauri, Svelte Native and Ionic.<br>🔭 Looking to pursue my interests in IoT, Robotics and AI 
 
 
 ## 🌐 Socials:
